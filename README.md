@@ -1,0 +1,2 @@
+# Customer-survey-using-R
+The project has two tasks. One of the task is here is to understand which brand of electronics is preferred by the customers. The other task to build a model to predict the brand preferred by the customers based on the customer features. Here we have two data set. One of them is a complete data set and the other one is incomplete with missing brand preference column. Our task also includes to use the model to complete the incomplete data set
